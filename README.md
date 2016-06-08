@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/tadashiy1012/get_dt.svg?branch=master)](https://travis-ci.org/tadashiy1012/get_dt)
+
 # get_dt
 get yyyy-MM-dd_HH:mm:ss
 
